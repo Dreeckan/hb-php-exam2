@@ -3,8 +3,8 @@
 
 <form action="" method="post">
     <div>
-        <label for="gift">Ajouter un don</label>
-        <input type="number" id="gift">
+        <label for="quantity">Quantité</label>
+        <input type="number" id="quantity">
     </div>
     <div>
         <label for="email">Un champ email</label>

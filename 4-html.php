@@ -2,23 +2,19 @@
 
 $games = [
     [
-        'name'  => 'Hadès',
-        'price' => 45,
+        'name'  => 'Arcangelo Corelli',
+        'birth' => 1653,
     ],
     [
-        'name'  => 'Cyberpubnk 2077 - édition avec carte graphique',
-        'price' => 850,
+        'name'  => 'Frédéric Chopin',
+        'birth' => 1810,
     ],
     [
-        'name'  => 'Disco Elysium',
-        'price' => 55,
+        'name'  => 'Franz Liszt',
+        'birth' => 1811,
     ],
     [
-        'name'  => 'Exo One',
-        'price' => 25,
-    ],
-    [
-        'name'  => 'Among Us',
-        'price' => 4,
+        'name'  => 'Johann Pachelbel',
+        'birth' => 1732,
     ],
 ];

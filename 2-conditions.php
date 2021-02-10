@@ -1,29 +1,29 @@
 <?php
 
-$shoes = [
+$composers = [
     [
-        'name'  => 'Heracles air max ++',
-        'price' => 120.50,
-        'stock' => 12,
+        'name'    => 'Hildegard von Bingen',
+        'birth'   => 1098,
+        'country' => 'Allemagne',
     ],
     [
-        'name'  => 'Zeus de chantier',
-        'price' => 115.32,
-        'stock' => 75,
+        'name'    => 'Philippe Verdelot',
+        'birth'   => 1480,
+        'country' => 'France',
     ],
     [
-        'name'  => 'Hermes ultra fast',
-        'price' => 75,
-        'stock' => 5,
+        'name'    => 'Martin Luther',
+        'birth'   => 1483,
+        'country' => 'Allemagne',
     ],
     [
-        'name'  => 'Poseidon étanches',
-        'price' => 58.25,
-        'stock' => 40,
+        'name'    => 'Adriano Banchieri',
+        'birth'   => 1568,
+        'country' => 'Italie',
     ],
     [
-        'name'  => 'Hadès méga-dark',
-        'price' => 55.12,
-        'stock' => 32,
+        'name'    => 'Jean-Baptiste Lully',
+        'birth'   => 1632,
+        'country' => 'France',
     ],
 ];
