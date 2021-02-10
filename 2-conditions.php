@@ -27,3 +27,23 @@ $composers = [
         'country' => 'France',
     ],
 ];
+
+
+foreach($composers as $composer) {
+    echo $composer["name"] . " " . $composer["birth"] . " " . $composer["country"];
+    if($composer["country"] == "France" || $composer["country"] == "Italie") {
+        echo "!";
+    }
+    echo "<br>";
+}
+
+
+/**
+ * Dans 2-conditions.php :
+ Utiliser echo et foreach pour afficher toutes les valeurs du tableau $composers
+  (défini dans le fichier) et les séparer par des sauts de ligne (<br />)
+ Dans cette boucle, si l'index country vaut France ou Italie, ajouter un point d'exclamation (!) sur sa ligne
+ Créer un commit avec vos changements
+ * 
+ * 
+ */
