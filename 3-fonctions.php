@@ -1,7 +1,13 @@
 <?php
 
 
-function perimetreRectangle($longueur, $largeur)
+/**
+ * @param int
+ * @return int
+ * 
+ */
+
+function perimetreRectangle($longueur, $largeur): int
 {
    return 2 * ($longueur + $largeur);
 }
