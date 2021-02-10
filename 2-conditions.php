@@ -27,3 +27,13 @@ $composers = [
         'country' => 'France',
     ],
 ];
+
+
+foreach($composers as $composer) {
+    echo $composer["name"] . " " . $composer["birth"] . " " . $composer["country"];
+    if($composer["country"] == "France" || $composer["country"] == "Italie") {
+        echo "!";
+    }
+    echo "<br>";
+}
+

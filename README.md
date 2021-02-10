@@ -134,7 +134,7 @@ class UseTestTrait
     use HasTestTrait;
 }
 ```
-- [ ] Solution 3
+- [ x] Solution 3
 ```php
 // Traits/HasTestTrait.php
 namespace Traits;
@@ -170,5 +170,5 @@ class Test implements HasNameInterface
 ```
 
 - [ ] Il manque un namespace dans la classe `Test`
-- [ ] Il manque un `use` dans la classe `Test`
+- [x ] Il manque un `use` dans la classe `Test`
 - [ ] La classe `Test` n'a pas de méthode `getName()`
