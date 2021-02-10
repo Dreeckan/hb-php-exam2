@@ -1,5 +1,7 @@
 # PHP procédural et Objet - Examens
 
+[Récupérer et travailler sur ce projet en vidéo](https://www.loom.com/share/3e8d56bdced540df80d84439333b54a4)
+
 Pour travailler sur ce projet : 
 - **créer un fork** du projet (sur la page [https://github.com/Dreeckan/hb-php-exam2](https://github.com/Dreeckan/hb-php-exam2), cliquer sur le bouton `fork`, en haut à droite de la page)
 - Cloner **votre** projet (commande `git clone` par exemple)
@@ -13,12 +15,12 @@ La durée prévue est d'environ 2h. Des points peuvent être perdus pour le reta
 - 2 point si le rendu est fait après 21h
 
 Liste des exercices
-1. Utilisation des variables (1 point)
-2. Conditions et boucles (1 point)
+1. Utilisation des variables (1.5 point)
+2. Conditions et boucles (1.5 point)
 3. Fonctions (2 points)
-4. PHP dans du html (3 points)
+4. PHP dans du html (4 points)
 5. Superglobales (4 points)
-6. Objets (4 points)
+6. Objets (5 points)
 7. Cours et bogues (2 points)
 
 
